@@ -3521,5 +3521,55 @@
                 }
             }
         },
+        {
+            "tables": {
+                "name": "PCOFNS_PS_UETH_LIF1_RAW",
+                "columns": {
+                    "column": [
+                        "UNIT_ETH_RCVPAUSEON",
+                        "UNIT_ETH_TRASPAUSEOFF",
+                        "UNIT_ETH_RCVPAUSEOFF",
+                        "UNIT_ETH_BWUTILIZETX",
+                        "UNIT_ETH_BWUTILIZERX",
+                        "UNIT_ETH_FLAGERR",
+                        "FINS_ID",
+                        "UNIT_ID",
+                        "PIU_ID",
+                        "LIF_ID",
+                        "PERIOD_START_TIME",
+                        "PERIOD_DURATION",
+                        "UNIT_ETH_INOCTETS",
+                        "UNIT_ETH_OUTOCTETS",
+                        "UNIT_ETH_TXFRAMES",
+                        "UNIT_ETH_RXFRAMES",
+                        "UNIT_ETH_ABORTTRA",
+                        "UNIT_ETH_DEFFEREDTX",
+                        "UNIT_ETH_TXLATECOLSN",
+                        "UNIT_ETH_TXCARRLOST",
+                        "UNIT_ETH_TXCDHEART",
+                        "UNIT_ETH_CARREXTERR",
+                        "UNIT_ETH_FIFOVERCNT",
+                        "UNIT_ETH_RXBUFOVFLCNT",
+                        "UNIT_ETH_FAILRXBUFALLOC",
+                        "UNIT_ETH_TXCOMPLETEAFTOVF",
+                        "UNIT_ETH_TXRESTARTAFTOVFL",
+                        "UNIT_ETH_RXSEMAPHORECNT",
+                        "UNIT_ETH_LOSTRXINTERRUPT",
+                        "UNIT_ETH_OUTOFMSGBUFFER",
+                        "UNIT_ETH_RXBUFFERCORRUPT",
+                        "UNIT_ETH_RCVERRMASK",
+                        "UNIT_ETH_BADRCVSTATUS",
+                        "UNIT_ETH_LINENOTREADY",
+                        "UNIT_ETH_CRCERR",
+                        "UNIT_ETH_FRAMEALGMTERR",
+                        "UNIT_ETH_TOOLONGPACKT",
+                        "UNIT_ETH_TOOSHORTPACKT",
+                        "UNIT_ETH_TXBUFFEROVER",
+                        "UNIT_ETH_TXERRCNT",
+                        "UNIT_ETH_TRASPAUSEON"
+                    ]
+                }
+            }
+        }
     ]
 }
