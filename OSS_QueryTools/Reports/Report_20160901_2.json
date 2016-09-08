@@ -1,0 +1,24 @@
+{
+	"columndesc": [
+		"NE_NAME",
+		"Date",
+		"Time",
+		"StatType",
+		"UNIT_ETH_INOCTETS",
+		"UNIT_ETH_OUTOCTETS",
+		"UNIT_ETH_TXFRAMES",
+		"UNIT_ETH_RXFRAMES"
+	],
+	"columns": [
+	[
+		"SHMME06BNK",
+		"2016/09/01",
+		"16:15",
+		"ALL",
+		"8038075787",
+		"10845829345",
+		"82895387",
+		"66850648"
+	]
+	]
+}
